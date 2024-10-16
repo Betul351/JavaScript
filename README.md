@@ -1,0 +1,1 @@
+Öğrenilen Java bilgilerinin tekrarı
